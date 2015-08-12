@@ -1,0 +1,35 @@
+Name = "MD1";
+Layout = "Hacker";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2014";
+KLL = "0.3";
+Date = "2014-09-14";
+Generator = "KIICONF 0.1";
+
+U"1" : U"F1";
+U"2" : U"F2";
+U"3" : U"F3";
+U"4" : U"F4";
+U"5" : U"F5";
+U"6" : U"F6";
+U"7" : U"F7";
+U"8" : U"F8";
+U"9" : U"F9";
+U"0" : U"F10";
+U"MINUS" : U"F11";
+U"EQUAL" : U"F12";
+U"BACKSLASH" : CONS"VOLUMEDOWN";
+U"BACKTICK" : CONS"VOLUMEUP";
+U"LBRACE" : U"BACKSPACE";
+U"RBRACE" : U"DELETE";
+U"BACKSPACE" : U"PRINTSCREEN";
+U"CTRL" : layerShift( 1 );
+U"QUOTE" : layerShift( 1 );
+U"RSHIFT" : layerShift( 2 );
+U"FUNCTION1" : SYS"POWERDOWN";
+U"FUNCTION2" : U"LCTRL";
+U"LALT" : layerShift( 2 );
+U"RGUI" : U"RSHIFT";
+U"FUNCTION3" : U"RCTRL";
+U"FUNCTION4" : layerLock( 3 );
+

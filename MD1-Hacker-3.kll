@@ -1,0 +1,18 @@
+Name = "MD1";
+Layout = "Hacker";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2014";
+KLL = "0.3";
+Date = "2014-09-14";
+Generator = "KIICONF 0.1";
+
+U"CTRL" : U"ESCAPE";
+U"Z" : U"1";
+U"X" : U"2";
+U"C" : U"3";
+U"V" : U"C";
+U"B" : U"5";
+U"N" : U"6";
+U"LALT" : U"PRINTSCREEN";
+U"LGUI" : U"B";
+
